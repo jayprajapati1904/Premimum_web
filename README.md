@@ -84,7 +84,7 @@ Follow these steps to run the project locally.
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/your-username/premimum-web.git
+git clone https://github.com/jayprajapati1904/Premimum_web.git
 ```
 
 ### 2️⃣ Navigate into the project
