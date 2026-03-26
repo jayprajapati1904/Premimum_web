@@ -240,7 +240,7 @@ You are free to use, modify, and distribute it.
 
 ## 👨‍💻 Author
 
-**Darshan / Jay Prajapati**  
+** Jay Prajapati**  
 Computer Engineering Student | Full Stack Developer | UI/UX Enthusiast
 
 ---
