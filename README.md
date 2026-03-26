@@ -68,8 +68,6 @@ premimum-web/
 │   ├── assets/
 │   ├── components/
 │   ├── pages/
-│   ├── sections/
-│   ├── styles/
 │   ├── App.jsx / App.tsx
 │   └── main.jsx / main.tsx
 │── package.json
